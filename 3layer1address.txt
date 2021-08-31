@@ -1,0 +1,2 @@
+mainnet: ckb1qyqg87t5gmrytu5r8umspxt78r6t92kgxmlsq0e0vt
+testnet: ckt1qyqg87t5gmrytu5r8umspxt78r6t92kgxmlsa28sqh
